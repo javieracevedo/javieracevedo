@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello There 👋
 
-Hello, my name is Javier Acevedo. I'm a Front-end Web Developer, specializing in Vue, React. Aside from my professional life I have experience with other languages such as C, C#, and python. 
+Hello, my name is Javier Acevedo. I'm a Front-end Web Developer, specializing in Vue, and React. Aside from my professional life I have experience with other languages such as C, C#, and python. 
 
 In my spare time I like to build stuff such as:
 
