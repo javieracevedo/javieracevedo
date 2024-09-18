@@ -4,9 +4,10 @@ Hello, my name is Javier Acevedo. I'm a Front-end Web Developer, specializing in
 
 In my spare time I like to build stuff such as:
 
-- meshell: unix-like shell
-- chip-8 interpreter/emulator
-- superfluo&layout=compact: rubik's cube timer
+- [meshell](https://github.com/javieracevedo/meshell): unix-like shell
+- [chip-8](https://github.com/javieracevedo/chip-8-emulator) interpreter/emulator
+- [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer
+- [ostep-projects](https://github.com/javieracevedo/ostep-projects): operative system projects from the OSTEP book.
 
 To build these projects I use the following languages:
 
