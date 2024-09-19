@@ -8,7 +8,7 @@ In my spare time, I like to build stuff such as:
 - [chip-8](https://github.com/javieracevedo/chip-8-emulator) interpreter/emulator
 - [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer
 - [ostep-projects](https://github.com/javieracevedo/ostep-projects): operative system projects from the OSTEP book.
-- [sharpong](https://github.com/javieracevedo/sharp-pong): pong's clone in C# and monogame
+- [sharpong](https://github.com/javieracevedo/sharpong): pong's clone in C# and monogame
 
 To build these projects I use the following languages:
 
