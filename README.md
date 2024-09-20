@@ -4,12 +4,18 @@ Hello, my name is Javier Acevedo. I'm a Senior Front-end Web Developer, speciali
 
 In my spare time, I like to build stuff such as:
 
-- [meshell](https://github.com/javieracevedo/meshell): unix-like shell
 - [chip-8](https://github.com/javieracevedo/chip-8-emulator) interpreter/emulator
-- [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer
 - [ostep-projects](https://github.com/javieracevedo/ostep-projects): operative system projects from the OSTEP book.
 - [sharpong](https://github.com/javieracevedo/sharpong): pong's clone in C# and monogame
 
-To build these projects I use the following languages:
+I'm currently working on:
+
+- [meshell](https://github.com/javieracevedo/meshell): unix-like shell
+- [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer
+
+<br/>
+
+To build these projects I've used the following languages:
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javieracevedo&langs_count=4&layout=compact)
