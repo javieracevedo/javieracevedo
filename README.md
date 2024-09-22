@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javieracevedo&label=Profile%20views&color=000000&style=for-the-badge" alt="sasmithx" /> </p>
+
 ## Hello There 👋
 
 Hello, my name is Javier Acevedo. I'm a Senior Front-end Web Developer, specializing in Vue, and React. Aside from my professional life, I have experience with other languages such as C, C#, and Python. 
