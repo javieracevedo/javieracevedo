@@ -13,8 +13,6 @@ I'm currently working on:
 - [meshell](https://github.com/javieracevedo/meshell): unix-like shell
 - [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer
 
-<br/>
-
 To build these projects I've used the following languages:
 
 
