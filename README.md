@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javieracevedo&label=Profile%20views&color=000000&style=for-the-badge" alt="sasmithx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javieracevedo&label=Profile%20views&color=000000&style=for-the-badge" alt="javieracevedo" /> </p>
 
 ## Hello There 👋
 
