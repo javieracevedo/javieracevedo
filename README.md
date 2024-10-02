@@ -7,10 +7,11 @@ In my spare time, I like to build stuff such as:
 - [chip-8](https://github.com/javieracevedo/chip-8-emulator) interpreter/emulator
 - [ostep-projects](https://github.com/javieracevedo/ostep-projects): operative system projects from the OSTEP book.
 - [sharpong](https://github.com/javieracevedo/sharpong): pong's clone in C# and monogame
+- [meshell](https://github.com/javieracevedo/meshell): second **attempt** of unix-like shell in C. 
+
 
 I'm currently working on:
 
-- [meshell](https://github.com/javieracevedo/meshell): unix-like shell in C
 - [gosh](https://github.com/javieracevedo/gosh): unix like shell in Go
 - [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer
 
