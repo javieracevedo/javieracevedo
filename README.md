@@ -10,7 +10,8 @@ In my spare time, I like to build stuff such as:
 
 I'm currently working on:
 
-- [meshell](https://github.com/javieracevedo/meshell): unix-like shell
+- [meshell](https://github.com/javieracevedo/meshell): unix-like shell in C
+- [gosh](https://github.com/javieracevedo/gosh): unix like shell in Go
 - [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer
 
 To build these projects I've used the following languages:
