@@ -14,7 +14,7 @@ I'm currently working on:
 
 - [gosh](https://github.com/javieracevedo/gosh): an unix like shell in Go.
 - [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer.
-- [gluttony](https://youtu.be/SbI5Rl4Clt0): very early stage of my score attack + bullet hell + cooking simulator inspired by Overcooked, The Binding of Isaac, Enter the Gungeon.
+- [gluttony](https://youtu.be/SbI5Rl4Clt0): very early stage of my score attack + bullet hell + cooking simulator inspired by Overcooked, The Binding of Isaac, and, Enter the Gungeon.
 
 To build these projects I've used the following languages:
 
