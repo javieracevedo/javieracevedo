@@ -8,13 +8,12 @@ In my spare time, I like to build stuff such as:
 - [ostep-projects](https://github.com/javieracevedo/ostep-projects): operative system projects from the OSTEP book.
 - [sharpong](https://github.com/javieracevedo/sharpong): pong's clone in C# and monogame.
 - [meshell](https://github.com/javieracevedo/meshell): second **attempt** of an unix-like shell in C. 
-
+- [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer.
 
 I'm currently working on:
 
 - [gosh](https://github.com/javieracevedo/gosh): an unix like shell in Go.
-- [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer.
-- [gluttony](https://youtu.be/SbI5Rl4Clt0): very early stage of my score attack + bullet hell + cooking simulator inspired by Overcooked, The Binding of Isaac, and, Enter the Gungeon.
+- chip-8 standalone debugger
 
 To build these projects I've used the following languages:
 
