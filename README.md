@@ -9,9 +9,6 @@ In my spare time, I like to build stuff such as:
 - [sharpong](https://github.com/javieracevedo/sharpong): pong's clone in C# and monogame.
 - [meshell](https://github.com/javieracevedo/meshell): second **attempt** of an unix-like shell in C. 
 - [gosh](https://github.com/javieracevedo/gosh): an unix like shell in Go.
-
-I'm currently working on:
-
 - [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer.
 
 
