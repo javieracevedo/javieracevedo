@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-Hello, my name is Javier Acevedo. I'm a Senior Front-end Web Developer, specializing in Vue, and React. Aside from my professional life, I have experience with other languages such as C, C#, and Python. 
+Hello, my name is Javier Acevedo. I'm a Senior FullStack Engineer. Aside from my professional life, I have experience with other languages such as C, C#, Go and Python. 
 
 In my spare time, I like to build stuff such as:
 
