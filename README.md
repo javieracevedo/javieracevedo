@@ -13,7 +13,3 @@ In my spare time, I like to build stuff such as:
 - [sharpong](https://github.com/javieracevedo/sharpong): Pong's clone in C# and monogame.
 - [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer.
 - [go_invaders](https://github.com/javieracevedo/go_invaders): Space Invaders clone in go (incomplete)
-
-To build these projects I've used the following languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javieracevedo&langs_count=10&layout=compact)
