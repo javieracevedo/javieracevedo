@@ -4,12 +4,12 @@ Hello, my name is Javier Acevedo. I'm a Senior Software Engineer. Aside from my 
 
 In my spare time, I like to build stuff such as:
 
-- [chip-8](https://github.com/javieracevedo/chip-8-emulator) interpreter/emulator.
+- [chip-8](https://github.com/javieracevedo/chip-8-emulator): interpreter/emulator.
 - [ostep-projects](https://github.com/javieracevedo/ostep-projects): operative system projects from the OSTEP book.
-- [turbolover](https://github.com/javieracevedo/turbolover): http/1.1 server in Ruby.
+- [turbolover](https://github.com/javieracevedo/turbolover): HTTP/1.1 server in Ruby.
 - [gosh](https://github.com/javieracevedo/gosh): an unix-like shell in Go.
 - [rshell](https://github.com/javieracevedo/rshell): an unix-like shell in Ruby. 
 - [meshell](https://github.com/javieracevedo/meshell): second **attempt** of an unix-like shell in C. 
 - [sharpong](https://github.com/javieracevedo/sharpong): Pong's clone in C# and monogame.
-- [superfluo](https://github.com/javieracevedo/superfluo-timer): rubik's cube timer.
+- [superfluo](https://github.com/javieracevedo/superfluo-timer): Rubik's cube timer.
 - [go_invaders](https://github.com/javieracevedo/go_invaders): Space Invaders clone in go (incomplete)
